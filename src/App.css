@@ -9,7 +9,7 @@ p{font-size: 14px;color: #000;}
 .bg-cus-lg{background-color: #d3caca96;}
 
 /* Navabr */
-header{background-color: #Ffff;position: fixed;width: 100%;box-shadow: 1px 1px 1px #000;z-index: 999;}
+header{background-color: #Ffff;position: fixed;width: 100%;box-shadow: 1px 1px 10px #000;z-index: 999;}
 .logo{text-decoration: none;font-size: 25px;margin: 0;padding: 0;color: #FFB000;}
 .logo h1{line-height: 0;margin: 10px;padding-bottom: 10px;}
 .menus ul{margin: 0;display: flex;}
@@ -52,6 +52,7 @@ header{background-color: #Ffff;position: fixed;width: 100%;box-shadow: 1px 1px 1
     .menus li .menu-links{margin-left: 10px;}
     .sl-b{display: none;}
 .sl-n{display: block;}
+.map-sec iframe{width: 100%;}
 
 }
 
